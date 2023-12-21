@@ -1,5 +1,3 @@
-DROP SCHEMA IF EXISTS flota CASCADE;
-
 -- flota de vehículos de empresa
 
 CREATE SCHEMA flota;
